@@ -14,6 +14,7 @@ public class FENZHI2 extends Activity{
     public void onCreate(Bundle savedInstanceState, PersistableBundle persistentState) {
         super.onCreate(savedInstanceState, persistentState);
         System.out.println("fenzhi2");
+        System.out.println("had稍等哈时间快点哈啊");
         System.out.println("是要合并吗");
         System.out.println("fenzhi2？？、");
     }
